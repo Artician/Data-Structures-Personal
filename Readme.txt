@@ -2,6 +2,9 @@ This repository is the home for one of my idle projects. The premise is for me t
 
 Changelog:
 
+2015/12/31
+Scrapped all prior code. Templatized and renamed the doubly linked list class. List can be pushed and popped from front and back. New test .cpp file. Fixed memory leaks and bugs from prior version (0.1). Now requires C++11 for nullptr to shift away from NULL macro from C as it becomes depreciated.
+
 2014/08/15
 
 Created repository and added first test file. 
